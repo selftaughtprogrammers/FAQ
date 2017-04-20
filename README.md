@@ -1,6 +1,6 @@
 # Self Taught Programmers FAQ! 
 
-This is a repo filled with the groups most **F**requently **A**sked/**A**nswered **Q**uestions!
+This is a repo filled with the groups most **F**requently **A**sked **Q**uestions!
 
 So, without further a-do, let's get started!
 ***
