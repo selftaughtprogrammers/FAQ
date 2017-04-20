@@ -13,6 +13,7 @@ So, without further a-do, let's get started!
 4. What is Version Control and should I use it?
 	+ Version Control is a method of "backing up" your files in such a way that you can go back to a previous change, and it will allow you to recover to a previous state if you happen to make an unwanted change or lose your work. The recommendation is to look at tools like [Git][7], which is one of the most used tools in the industry currently. As for should you use it, the answer is more often than not yes. And why? Because tools like Git allows you to save any changes you have made to the project you are working on, and recover if things go bad (i.e accidentally deleted files, corrupted files, etc).
 5. Is getting a degree worth it?
+	+ While it is true that you can break into the industry without a degree and only your work and merits, a degree is still a good thing to have. This is because it opens up more doors further along the line when you have more experience and 
 6. What should I do to get hired?
 7. What is the best kind of laptop for programming?
 
