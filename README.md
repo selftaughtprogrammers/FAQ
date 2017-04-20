@@ -4,6 +4,7 @@ This is a repo filled with the groups most **F**requently **A**sked/**A**nswered
 
 So, without further a-do, let's get started!
 ***
+## General Questions:
 
 1. **_What should I start with?_**
 	+ The sky is the lmiit with this one! You have the ability to choose any langauge you want to start! The gerneral recommendation is to start with Python or  Javascript, but you can choose any language you choose to start, as most programming languages teach the same basic concepts!
