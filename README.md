@@ -24,6 +24,9 @@ So, without further a-do, let's get started!
 	+ Sites like [Treehouse][8] and [CodeAcademy][9] are great resources for when you want to do some quick on your own activities. You can also look for free courses on sites like [Udemy][10], [edX][11], and [Coursera][12], to name a few. 
 9. **_Are Bootcamps worth it?_**
 	+ This question really depends on how you take bootcamps. If you feel like you wouldn't learn ANYTHING from working in a controlled setting and being taught only how to code, than maybe its not worth it for you. Likewise, if you see bootcamps as an effective tool for learning and feel that it would help you stay focused and learn, than maybe it would be a good idea to at least consider signing up for one. A list of some really good bootcamps can be found [here][13]. 
+10. **_How do I know I'm ready for a junior development role_**
+	+ This is somthing that can be a little more personal for youy. Generally though, you should feel like you are able to make something basic on your own, like a Tic-Tac-Toe game for example. This will help you become more confident and willing to try new tecnologies, coding techniques. You are ready only when you feel like you can create something on your own, even if it's small.
+	
 
 
 [1]: https://www.sublimetext.com/3
