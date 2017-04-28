@@ -26,6 +26,10 @@ So, without further a-do, let's get started!
 	+ This question really depends on how you take bootcamps. If you feel like you wouldn't learn ANYTHING from working in a controlled setting and being taught only how to code, than maybe its not worth it for you. Likewise, if you see bootcamps as an effective tool for learning and feel that it would help you stay focused and learn, than maybe it would be a good idea to at least consider signing up for one. A list of some really good bootcamps can be found [here][13]. 
 10. **_How do I know I'm ready for a junior development role_**
 	+ This is somthing that can be a little more personal for youy. Generally though, you should feel like you are able to make something basic on your own, like a Tic-Tac-Toe game for example. This will help you become more confident and willing to try new tecnologies, coding techniques. You are ready only when you feel like you can create something on your own, even if it's small.
+11. **_What kind of freelancing opportunities are there?_**
+    + Generally, you want to make sure that whatever you want to do, you know how to do it well. You want to build apps for people? You may want to know things like Android and iOS development really well. You want to build a portfolio or e-commerce website? Make sure you know how to handle both the front and back-end web dev technologies. As for places to find jobs, you can find them at sites like [Freelancer][14] and [Upwork][15], to name just a few.
+<!--- Questions to be added/answered. --->
+<!--- Are C / C++ / C# related ? And if not what are the big differences? --->
 	
 
 
@@ -42,3 +46,5 @@ So, without further a-do, let's get started!
 [11]: https://www.edx.org/
 [12]: https://www.coursera.org/
 [13]: https://www.switchup.org/research/best-coding-bootcamps
+[14]: https://www.freelancer.com/
+[15]: https://www.upwork.com/
